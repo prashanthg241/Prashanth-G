@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "69c40c1824bb8d86b538b8b0"
+  },
+  "title": "data strustures",
+  "author": "mark allen",
+  "genre": "education",
+  "available": true,
+  "issuedto": null
+},
+{
+  "_id": {
+    "$oid": "69c40c1824bb8d86b538b8b1"
+  },
+  "tittle": "DBMS",
+  "author": "korth",
+  "genre": "education",
+  "available": false,
+  "issuedto": "rahul"
+},
+{
+  "_id": {
+    "$oid": "69c40c1824bb8d86b538b8b2"
+  },
+  "title": "Harry Potter",
+  "author": "J.K. Rowling",
+  "genre": "Fantasy",
+  "available": false,
+  "issuedTo": null,
+  "issuedto": "prashanth"
+}]
